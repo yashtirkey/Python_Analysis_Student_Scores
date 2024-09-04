@@ -12,4 +12,4 @@ This project analyzes student performance across different groups based on a dat
 
 Conclusion: The analysis concludes with a summary of findings based on the visual and statistical outputs.
 
-This notebook makes use of popular Python libraries such as ### pandas , ### matplotlib , and ### seaborn for data manipulation and visualization.
+This notebook makes use of popular Python libraries such as pandas, matplotlib, and seaborn for data manipulation and visualization.
