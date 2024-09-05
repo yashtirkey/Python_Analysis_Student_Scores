@@ -1,4 +1,4 @@
-# Python_Analysis_Student_Scores
+# Python Analysis Student Scores
 
 This project analyzes student performance across different groups based on a dataset containing scores and demographic information. The project includes the following key steps:
 
